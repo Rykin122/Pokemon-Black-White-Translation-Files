@@ -36,8 +36,8 @@ Resort Desert
 Ancient Castle
 Cold Storage
 Thunder Stone Cave
-Mt. Neji
-Ryuurasen Tower
+Mt. Helix
+Dragon-Helix Tower
 Victory Road
 Kagome Town
 Sazanami Town
@@ -84,8 +84,8 @@ White Forest
 Black City
 Cold Storage
 Thunder Stone Cave
-Mt. Neji
-Ryuurasen Tower
+Mt. Helix
+Dragon-Helix Tower
 Great Hall
 Hobomoe Drawbridge
 Cylinder Bridge
